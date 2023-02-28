@@ -26,7 +26,7 @@ Dataset consists of 12,330 sessions in, 84.5% (10,422) were negative class sampl
 * Conculasion
 
 
-## Business Quesion ##
+## Business Quesions ##
  * How many of the online shopping sessions ended in a purchase?
  * Which visitor type is most frequent—whether this is new visitors, returning visitors, or any other category
  * How the visitors visit our page whether direct or through other medium?
