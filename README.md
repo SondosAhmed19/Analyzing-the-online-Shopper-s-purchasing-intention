@@ -27,10 +27,10 @@ Dataset consists of 12,330 sessions in, 84.5% (10,422) were negative class sampl
 
 
 ## Business Quesion ##
- * how many of the online shopping sessions ended in a purchase?
- * which visitor type is most frequent—whether this is new visitors, returning visitors, or any other category
- * how the visitors visit our page whether direct or through other medium?
+ * How many of the online shopping sessions ended in a purchase?
+ * Which visitor type is most frequent—whether this is new visitors, returning visitors, or any other category
+ * How the visitors visit our page whether direct or through other medium?
  * What distribution of customers over days of the week ?
- * which region has the highest number of visitors visiting our website?
- * which type of browser and OS is used by our visitors?
- * impact the special day on the number of users visiting our website.
+ * Which region has the highest number of visitors visiting our website?
+ * Which type of browser and OS is used by our visitors?
+ * Impact the special day on the number of users visiting our website.
